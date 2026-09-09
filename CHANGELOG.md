@@ -2,6 +2,8 @@
 
 ## NOT RELEASED
 
+## 2.5.0
+
 ### Added
 
 - AWS api-change: Added a deploymentMode parameter to CreateDeployment. Set it to RESTART to restart an EC2 and on-premises fleet, using the last successful revision, honoring Deployment Configuration.
